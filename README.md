@@ -14,7 +14,7 @@
   	
 </p>
 # 📊 GitHub Stats:
-<p align="left">
+<p align="center">
   <a href="https://github.com/Jatinchahal2003">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jatinchahal2003&hide_border=true&card_width=338&theme=transparent" />
   </a>
